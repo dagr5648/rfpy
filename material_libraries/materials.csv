@@ -1,0 +1,4 @@
+﻿material,Conductivity S/m,Permeability H/m,Permittivity ,Relative Permittivity,Relative Permeability
+gold (20 C),40980000,,,,
+air,,,,1.0006,1
+free space,,1.25664E-06,8.854E-12,,
